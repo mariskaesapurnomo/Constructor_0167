@@ -5,7 +5,10 @@
 #include <string>
 using namespace std;
 
-class mahasiswa{};
+class mahasiswa{
+public:
+
+};
 
 int main()
 {
